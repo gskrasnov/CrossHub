@@ -25,7 +25,7 @@ CrossHub.1.2.2.plus.db.tar.gz (~800 Mb)
 
 
 ### Download TCGA data
-The easiest way to obtain TCGA data is to use DownloadData.py script. This allows easy downloading regularly updated TCGA data from our server
+The easiest way to obtain TCGA data is to use DownloadData.py script (included in the release). This allows easy downloading regularly updated TCGA data from our server
 
 	python3 DownloadData.py
 
