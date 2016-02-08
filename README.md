@@ -19,13 +19,9 @@ Otherwise, you can install these packages separately:
 	sudo apt-get install python3 python3-dev python3-scipy python3-xlsxwriter python3-pyparsing python3-matplotlib python3-pandas python3-psutil python3-setuptools python3-pip
 	sudo easy_install3 -U statsmodels
 
-Download and unpack one of following CrossHub releases:
+Download and unpack the latest release
 
 CrossHub.1.2.2.plus.db.tar.gz (~800 Mb)
-
-CrossHub.1.2.2.plus.db.TCGA.example.tar.gz (~4 Gb)
-
-The second one includes an example of TCGA colon adenocarcinoma (COAD) path-to-data including RNA-Seq, miRNA-Seq and methylation profiling data.
 
 
 ### Download TCGA data
